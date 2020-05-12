@@ -6,3 +6,5 @@
 ---
 **Descripcion:**
 Programa que aplica POO en un cronometro con interfaz gráfica
+---
+![Diagrama UML](https://imgur.com/a/Q91fln1)
