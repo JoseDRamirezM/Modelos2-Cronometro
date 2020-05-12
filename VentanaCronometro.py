@@ -45,7 +45,7 @@ class VentanaCronometro():
         else:
             self.btnParar.configure(text = 'Parar')
             self.activo = True
-            proceso = self.ventana.after(10, self.actualizar)
+            proceso = self.ventana.after(1, self.actualizar)
     
     def reiniciar(self):
         global proceso
